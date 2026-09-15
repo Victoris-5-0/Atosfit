@@ -1,0 +1,133 @@
+{
+  "hash": "5adbd2f8",
+  "configHash": "8e8d1e2b",
+  "lockfileHash": "2a8428c8",
+  "browserHash": "53b8fb68",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "1a984034",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "919dc5b3",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "c69145f0",
+      "needsInterop": false
+    },
+    "@dfinity/auth-client": {
+      "src": "../../node_modules/@dfinity/auth-client/lib/esm/index.js",
+      "file": "@dfinity_auth-client.js",
+      "fileHash": "2d748a97",
+      "needsInterop": false
+    },
+    "@dfinity/principal": {
+      "src": "../../node_modules/@dfinity/principal/lib/esm/index.js",
+      "file": "@dfinity_principal.js",
+      "fileHash": "74723975",
+      "needsInterop": false
+    },
+    "dexie": {
+      "src": "../../node_modules/dexie/import-wrapper.mjs",
+      "file": "dexie.js",
+      "fileHash": "234855b2",
+      "needsInterop": false
+    },
+    "@radix-ui/react-slot": {
+      "src": "../../node_modules/@radix-ui/react-slot/dist/index.mjs",
+      "file": "@radix-ui_react-slot.js",
+      "fileHash": "95efa179",
+      "needsInterop": false
+    },
+    "class-variance-authority": {
+      "src": "../../node_modules/class-variance-authority/dist/index.mjs",
+      "file": "class-variance-authority.js",
+      "fileHash": "ffd4c033",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "a7039da0",
+      "needsInterop": false
+    },
+    "@supabase/supabase-js": {
+      "src": "../../node_modules/@supabase/supabase-js/dist/index.mjs",
+      "file": "@supabase_supabase-js.js",
+      "fileHash": "d77d891b",
+      "needsInterop": false
+    },
+    "clsx": {
+      "src": "../../node_modules/clsx/dist/clsx.mjs",
+      "file": "clsx.js",
+      "fileHash": "b153dbcc",
+      "needsInterop": false
+    },
+    "tailwind-merge": {
+      "src": "../../node_modules/tailwind-merge/dist/bundle-mjs.mjs",
+      "file": "tailwind-merge.js",
+      "fileHash": "eb17e40b",
+      "needsInterop": false
+    },
+    "react-helmet": {
+      "src": "../../node_modules/react-helmet/es/Helmet.js",
+      "file": "react-helmet.js",
+      "fileHash": "f210b37d",
+      "needsInterop": false
+    },
+    "@stripe/stripe-js": {
+      "src": "../../node_modules/@stripe/stripe-js/lib/index.mjs",
+      "file": "@stripe_stripe-js.js",
+      "fileHash": "f2ec6984",
+      "needsInterop": false
+    },
+    "@dfinity/agent": {
+      "src": "../../node_modules/@dfinity/agent/lib/esm/index.js",
+      "file": "@dfinity_agent.js",
+      "fileHash": "ca556574",
+      "needsInterop": false
+    },
+    "recharts": {
+      "src": "../../node_modules/recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "06010b69",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "canisterStatus-7IFXOGRM": {
+      "file": "canisterStatus-7IFXOGRM.js"
+    },
+    "chunk-V2X5ZORR": {
+      "file": "chunk-V2X5ZORR.js"
+    },
+    "chunk-QCQY5XHO": {
+      "file": "chunk-QCQY5XHO.js"
+    },
+    "chunk-WABVLSAS": {
+      "file": "chunk-WABVLSAS.js"
+    },
+    "chunk-5XK45FWL": {
+      "file": "chunk-5XK45FWL.js"
+    },
+    "chunk-KDVGFZWC": {
+      "file": "chunk-KDVGFZWC.js"
+    },
+    "chunk-ECETCB6G": {
+      "file": "chunk-ECETCB6G.js"
+    },
+    "chunk-32E4H3EV": {
+      "file": "chunk-32E4H3EV.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
